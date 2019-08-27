@@ -23,7 +23,6 @@
 ## 📝 Table of Contents
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [TODO](../TODO.md)
@@ -47,6 +46,7 @@ Speech_recognition
 Requests
 OpenCV
 Numpy
+A picture of the user face
 ```
 Please ensure that your system has a webcam with mic built-in or by USB
 
@@ -54,14 +54,14 @@ Please ensure that your system has a webcam with mic built-in or by USB
 
 ```
 1. Install all Prerequisites software and hardware
-2. Run PyAssistant
+2.Open PyAssistant script
+3.Script is noted where the user will have to update code, the updates will be file path to users face picture(for auth), and twilio account information. 
+4. Run PyAssistant
 ```
 
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+Once you run PyAssistant it will open a web cam stream to compare the incoming face to the stored picture, if the auth passes, PyAssistant will alert you speak a command, for example you can say " tell me a joke, " PyAssistant will then echo back the joke. 
 
-## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [MongoDB](https://www.mongodb.com/) - Database
