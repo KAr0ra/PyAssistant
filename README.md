@@ -73,9 +73,7 @@ Once you run PyAssistant it will open a web cam stream to compare the incoming f
 ## ✍️ Authors <a name = "authors"></a>
 - [@KAr0ra](https://github.com/KAr0ra) 
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+I was inspried to build this project after taking an A.I class.
+
