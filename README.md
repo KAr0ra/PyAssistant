@@ -3,8 +3,6 @@
  <img src="https://i.imgur.com/KAOnnUp.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">PyAssistant</h3>
-
 <div align="center">
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
