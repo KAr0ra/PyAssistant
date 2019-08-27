@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/e7q9UK3.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">PyAssistant</h3>
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+PyAssistant is a vitural desktop assistant that levarges face recognition for authentication and speech recognition to interpret commands via built-in webcam/mic. PyAssistant had five functions it can perform out of box, "Play Music", "Open Website","Joke of the day","Fact of the day", and "Send Text".
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
