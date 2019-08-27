@@ -34,7 +34,7 @@
 PyAssistant is a vitural desktop assistant that levarges face recognition for authentication and speech recognition to interpret commands via built-in webcam/mic. PyAssistant had five functions it can perform out of box, "Play Music", "Open Website","Joke of the day","Fact of the day", and "Send Text". PyAssistant can be customized to your needs, all you need is a basic understanding of python!
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
 Please install all prerequisites to ensure PyAssistant will run on your system.
