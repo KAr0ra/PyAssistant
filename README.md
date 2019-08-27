@@ -43,9 +43,10 @@ Please ensure that your system has a webcam with mic built-in or by USB
 
 ```
 1. Install all Prerequisites software and hardware
-2.Open PyAssistant script
-3.Script is noted where the user will have to update code, the updates will be file path to users face picture(for auth), and twilio account information. 
-4. Run PyAssistant
+2.Clone repo
+3.Open PyAssistant script
+4.Script is noted where the user will have to update code, the updates will be file path to users face picture(for auth), and twilio account information. 
+5. Run PyAssistant
 ```
 
 ## 🎈 Usage <a name="usage"></a>
