@@ -64,13 +64,14 @@ Once you run PyAssistant it will open a web cam stream to compare the incoming f
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [Speech_Recognition](https://pypi.org/project/SpeechRecognition/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Python 3](https://www.python.org/downloads/) - Python 3
+- [Speech Recognition](https://pypi.org/project/SpeechRecognition/) - Speech Recognition
+- [Face Recognition](https://github.com/ageitgey/face_recognition) - Face Recognition
+- [Twilio](https://pypi.org/project/twilio/) - Twilio REST API (for texting)
+- [HTTP Requests](https://pypi.org/project/requests/) - HTTP Requests(get requests for joke and fact api)
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@KAr0ra](https://github.com/KAr0ra) 
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
