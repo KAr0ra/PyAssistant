@@ -21,7 +21,7 @@
 - [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
-PyAssistant is a desktop assistant that levarges face recognition for authentication and speech recognition to interpret commands via built-in webcam/mic. PyAssistant had five functions it can perform out of box, "Play Music", "Open Website","Joke of the day","Fact of the day", and "Send Text". PyAssistant can be customized to your needs, all you need is a basic understanding of python!
+PyAssistant is a desktop assistant that leverages face recognition for authentication and speech recognition to interpret commands via built-in webcam/mic. PyAssistant had five functions it can perform out of box, "Play Music", "Open Website","Joke of the day","Fact of the day", and "Send Text". PyAssistant can be customized to your needs, all you need is a basic understanding of python!
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
